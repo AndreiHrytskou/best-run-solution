@@ -6,6 +6,8 @@
 }
 .wrapper{
     background: url(../images/bg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
     min-height: 1273px;
     position: relative;
     overflow: hidden;
