@@ -73,7 +73,7 @@
     }
     .container{
         padding: 100px 20px;
-        gap: 50px;
+        gap: 40px;
     }
     .bg__image{
         width: 70vw;
@@ -86,7 +86,7 @@
         font-size: 60px;
     }
     .footer{
-        gap: 70px;
+        gap: 40px;
     }
     .copyright,
     .contact{
